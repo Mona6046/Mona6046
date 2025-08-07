@@ -33,7 +33,7 @@ With 12+ years of industry experience (5+ years in Data Science), I specialize i
 Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 
 **GenAI & Agents:**  
-OpenAI API, LangChain, RAG pipelines, Pinecone, FAISS, ChromaDB
+OpenAI API, LangChain, RAG pipelines, ChromaDB, Opensearch, Amazon Aurora
 
 **Web & Backend:**  
 Flask, Django, Streamlit
